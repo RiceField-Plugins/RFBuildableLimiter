@@ -1,0 +1,14 @@
+﻿namespace RFBuildableLimiter.Enums
+{
+    public enum EResponse
+    {
+        BARRICADE_HEIGHT_LIMIT,
+        STRUCTURE_HEIGHT_LIMIT,
+        STRUCTURE_QUANTITY_LIMIT,
+        BARRICADE_QUANTITY_LIMIT,
+        BARRICADE_HEIGHT_WARNING,
+        BARRICADE_QUANTITY_WARNING,
+        STRUCTURE_HEIGHT_WARNING,
+        STRUCTURE_QUANTITY_WARNING
+    }
+}
